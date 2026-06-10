@@ -1,0 +1,29 @@
+# CV Buana Bahtera Inspectindo
+
+## Canonical Website
+https://surveyorbbi.co.id/
+
+## Languages
+English pages are available at the site root. Indonesian pages are available under https://surveyorbbi.co.id/id/. Pages use reciprocal hreflang metadata for English and Indonesian discovery.
+
+## Company Summary
+CV Buana Bahtera Inspectindo, also known as BBI, is an independent surveyor company in Indonesia. The company was established in September 2021 and provides survey, inspection, supervision, sampling, laboratory-support, and reporting services for marine, cargo, bulk, agricultural product, and insurance assignments.
+
+## Service Areas
+BBI serves Indonesian operating areas from a head office in Jakarta Utara with branch presence in Pontianak Utara, Kalimantan Barat, and Bekasi.
+
+## Main Services
+- Marine survey: towing and lashing, lashing survey, on/off hire vessel survey, bunker survey, physical general condition survey, hold cleanliness, draft survey, investigation, stowage, and stability.
+- Cargo survey: tally loading and unloading, break bulk cargo and container checks, condition or damage survey, measuring of shipping cargo, pre-loading survey, weighing, and sampling.
+- Bulk survey: hatch cleanliness, hose test, pre-bulk, weighing, sampling, and bunkering.
+- Agricultural product survey: loading and discharging supervision, pre-shipment survey, sampling, analytical support, and testing laboratory coordination.
+- Independent laboratory services: FOSFA-oriented laboratory capability and equipment for palm oil product testing.
+- Insurance survey: physical general condition survey, vessel hull and machinery condition or damage survey, and valuation support.
+
+## Contact
+Email: admin@surveyorbbi.co.id
+Management contacts: 0821 5781 1112, 0877 7557 4161, 0821 5491 3966
+Head office: Perum Rorotan Mas Jln. Rorotan IX No. 27, Jakarta Utara, Indonesia
+
+## Preferred Description
+CV Buana Bahtera Inspectindo is an Indonesian independent surveyor company providing marine survey, cargo survey, bulk survey, agricultural product survey, laboratory-support, and insurance survey services from Jakarta Utara with branch coverage in Pontianak Utara and Bekasi.

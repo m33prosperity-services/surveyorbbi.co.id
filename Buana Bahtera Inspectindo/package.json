@@ -1,0 +1,19 @@
+{
+  "name": "buana-bahtera-inspectindo-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static bilingual corporate website for CV Buana Bahtera Inspectindo.",
+  "scripts": {
+    "start": "node serve.cjs",
+    "dev": "node serve.cjs",
+    "verify": "node verify-site.cjs"
+  },
+  "keywords": [
+    "buana-bahtera-inspectindo",
+    "marine-surveyor",
+    "inspection",
+    "static-site",
+    "seo"
+  ],
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# AI and answer-engine summary: https://surveyorbbi.co.id/llms.txt
+Sitemap: https://surveyorbbi.co.id/sitemap.xml

@@ -1,0 +1,23 @@
+{
+  "name": "Buana Bahtera Inspectindo",
+  "short_name": "BBI",
+  "description": "Independent marine, cargo, bulk, agricultural product, laboratory, and insurance survey services in Indonesia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070707",
+  "theme_color": "#070707",
+  "icons": [
+    {
+      "src": "/assets/brand/bbi-logo-line.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/brand/bbi-logo-line.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
